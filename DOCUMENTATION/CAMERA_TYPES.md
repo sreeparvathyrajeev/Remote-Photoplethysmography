@@ -16,3 +16,7 @@
 | **Frame Rate (FPS)** | **CRUCIAL** | A common range is **15 to 30 FPS** for most low-cost devices. Deep Learning models can be affected by frame rate, with some showing better performance at lower FPS (e.g., 12.9 FPS). **A stable FPS is critical**. |
 | **Resolution** | **MODERATE** | Resolution can be reduced (e.g., to half size) without a major impact on HR estimation. |
 | **Video Compression** | **HIGH** | Compression algorithms (like H.264, H.265) often **degrade video quality** by eliminating subtle pixel variations, which directly reduces rPPG accuracy. |
+
+
+
+
