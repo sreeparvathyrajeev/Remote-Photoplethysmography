@@ -1,0 +1,9 @@
+# Folders
+   cropped_faces/
+   landmark_results/
+   rppg_signals/
+   venv/
+   
+   # XML file
+   haarcascade_frontalface_default.xml
+   
